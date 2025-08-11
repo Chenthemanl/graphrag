@@ -1,0 +1,6 @@
+{
+  "name": "Article Analyzer & Chat",
+  "description": "Simulates a GraphRAG workflow by extracting a knowledge base from an article and allowing a user to ask questions about it.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
